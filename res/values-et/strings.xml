@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="tweeting">Tôi đang tweeting ngay bây giờ!</string>
+    <string name="free_space">Võite kirjutada!</string>
+    <string name="emergency">Hädaolukorras!</string>
+    <string name="please_use_the_authentication_of_twitter">Vaadake vidistama autentimise!</string>
+    <string name="login">Logi sisse</string>
+    <string name="simple_phrase">Või lihtsalt fraasi</string>
+    <string name="could_not_phone">Võib telefoni.</string>
+    <string name="failed_to_trancelate">Tõlkimine ebaõnnestus.</string>
+</resources>

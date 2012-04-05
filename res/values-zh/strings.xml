@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="tweeting">我啁啾现在！</string>
+    <string name="free_space">随意地编写 ！</string>
+    <string name="emergency">情况下紧急 ！</string>
+    <string name="login">登录</string>
+    <string name="please_use_the_authentication_of_twitter">看到 Twitter 身份验证 ！</string>
+    <string name="simple_phrase">或简单短语</string>
+    <string name="could_not_phone">不能打电话。</string>
+    <string name="failed_to_trancelate">翻译失败。</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.yuigahama.natumegu"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="10" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <application
+        android:icon="@drawable/icon_natumegu"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".activity.SplashActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <!-- アクセストークンを処理するアクティビティ -->
+        <activity
+            android:name="jp.yuigahama.natumegu.activity.GetAccessTokenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <data android:scheme="com.kayac.natumegu" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+
+        <!-- フレーズを送るアクティビティ -->
+
+        <activity
+            android:name=".activity.PhraseSendActivity"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

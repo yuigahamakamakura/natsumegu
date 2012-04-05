@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="tweeting">Ma tweeting nüüd!</string>
+    <string name="free_space">Siéntase libre de escribir!</string>
+    <string name="emergency">En caso de emergencia!</string>
+    <string name="please_use_the_authentication_of_twitter">Vea la autenticación de Twitter!</string>
+    <string name="login">Inicio de sesión</string>
+    <string name="simple_phrase">O una simple frase</string>
+    <string name="could_not_phone">No podía por teléfono.</string>
+    <string name="failed_to_trancelate">Error en la traducción.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Nutsumeg dorm leader</string>
+    <string name="please_use_the_authentication_of_twitter">Please authenticate to Twitter!</string>
+    <string name="emergency">Emergency!</string>
+    <string name="tweeting">Tweeting now!</string>
+    <string name="login">Login</string>
+    <string name="failed_to_tweet">Failed to tweet.</string>
+    <string name="tweet_phrase">tweet「%s」</string>
+    <string name="free_space">Feel free to write!</string>
+    <string name="send">send</string>
+    <string name="simple_phrase">Simple Phrases</string>
+    <string name="could_not_phone">Could not phone."</string>
+    <string name="failed_to_trancelate">Translation failed.</string>
+</resources>

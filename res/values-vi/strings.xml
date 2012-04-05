@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="tweeting">Estoy piando ahora!</string>
+    <string name="emergency">Emergencia!</string>
+    <string name="free_space">Cảm thấy tự do để viết!</string>
+    <string name="login">Đăng nhập</string>
+    <string name="please_use_the_authentication_of_twitter">Xem xác thực Twitter!</string>
+    <string name="simple_phrase">Hoặc, một cụm từ đơn giản</string>
+    <string name="could_not_phone">Có thể không điện thoại.</string>
+    <string name="failed_to_trancelate">Bản dịch không thành công.</string>
+</resources>

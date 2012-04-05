@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="tweeting">Olen Tweeting nyt!</string>
+    <string name="free_space">Kehotamme kirjoittaa!</string>
+    <string name="emergency">Hätätilanteessa!</string>
+    <string name="please_use_the_authentication_of_twitter">Katso viserrys-todennuksen!</string>
+    <string name="login">Kirjautuminen</string>
+    <string name="simple_phrase">Tai yksinkertainen lause</string>
+    <string name="could_not_phone">Ei voi soittaa.</string>
+    <string name="failed_to_trancelate">Kääntäminen epäonnistui.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="tweeting">Je gazouille maintenant!</string>
+    <string name="free_space">N\'hésitez pas à écrire !</string>
+    <string name="emergency">En cas d\'urgence !</string>
+    <string name="please_use_the_authentication_of_twitter">Voir l\'authentification de Twitter !</string>
+    <string name="login">Ouverture de session</string>
+    <string name="simple_phrase">Ou, d\'une phrase simple</string>
+    <string name="could_not_phone">Pouvait pas Téléphone.</string>
+    <string name="failed_to_trancelate">Échec de la traduction.</string>
+</resources>
